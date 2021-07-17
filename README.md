@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- I am Chinmay, an Electrical Engineer by education and a Software Engineer working on Machine Learning (Machine Learning Engineer, as the cool kids call it) by trade.
-- I like exploring new ideas and discussing them with others. Feel free to get in touch!
+- I am Chinmay, an Electrical Engineer by education and a Machine Learning Engineer by trade.
+- I will be joining North Carolina State University in Fall 21 as a Master's student in Electrical Engineering! Feel free to get in touch if you're in Raleigh!
+- I like exploring new ideas and discussing them with others. My current academic interests include Machine Learning, Computer Vision and Image Processing.
 
 <!--
-**savadikarc/savadikarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +13,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
