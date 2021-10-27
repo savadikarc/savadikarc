@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I am Chinmay, an Electrical Engineer by education and a Machine Learning Engineer by trade.
-- I will be joining North Carolina State University in Fall 21 as a Master's student in Electrical Engineering! Feel free to get in touch if you're in Raleigh!
+- I'm Chinmay.
+- I am a Master's student in Electrical Engineering at North Carolina State University. Feel free to get in touch if you're in Raleigh!
 - I like exploring new ideas and discussing them with others. My current academic interests include Machine Learning, Computer Vision and Image Processing.
 
 <!--
